@@ -1,0 +1,28 @@
+body {
+    overflow-x: hidden;
+    padding: 25px;
+}
+
+.navbar {
+    font-size: 24px;
+}
+
+.right {
+    float: right;
+}
+
+.movie-info {
+    display: inline-block;
+    width: 70%;
+}
+
+.movie-image {
+    float: right;
+    height: 500px;
+}
+
+.slick-slide p {
+    white-space: nowrap;
+    overflow-x: hidden;
+    margin-right: 20px;
+}
